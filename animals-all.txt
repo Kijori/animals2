@@ -3,5 +3,9 @@ REID:
 MICHEAL:
 
 JASON:
+Cat
+Dog
+Johncrow 
+Pineapple
 
 KIJORI:
