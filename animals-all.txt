@@ -9,3 +9,7 @@ Johncrow
 Pineapple
 
 KIJORI:
+Lion
+Bird
+snake
+alligator
